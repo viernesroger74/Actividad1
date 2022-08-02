@@ -13,4 +13,5 @@ Todos los alumnos deberán seguir los siguientes pasos:
 10. Enviar correo al docente con las sentencias de comandos de esta actividad.
 
 
-En grupo de dos alumn@s, deberán crear un repositorio e intercambiar ficheros en cada uno de los repositorios de los alumnos.
+En grupo de dos alumnos, deberán crear un repositorio e intercambiar ficheros en cada uno de los repositorios de los alumnos.
+Y Finalmente, traerse del repositorio remoto del docente la estructura de ficheros a sus repositorios locales del alumnado.
