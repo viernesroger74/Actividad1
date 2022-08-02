@@ -8,7 +8,7 @@ Todos los alumnos deberán seguir los siguientes pasos:
 5. Crear cuatros ficheros y que cada uno contengan información
 6. Pasarlo al STAGE AREA
 7. Hacer commit de ellos
-8. Pasar los cambios al repositorio del docente https://github.com/viernesroger74/ExamenViernes.git
+8. Pasar los cambios al repositorio del docente https://github.com/viernesroger74/Actividad1.git
 9. Eliminar el fichero 1 y pasar los cambios al repositorio del docente
 10. Enviar correo al docente con las sentencias de comandos de esta actividad.
 
